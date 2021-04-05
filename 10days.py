@@ -213,7 +213,3 @@ for x in range(len(startdate)):
         ordersGrouped10.to_excel(writer, sheet_name='Исходные данные 10 дней')
         writer.save()
 
-
-#период
-#сколько дней прошло с рассылки
-
